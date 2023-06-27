@@ -1,0 +1,21 @@
+.newsbox {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .news-title {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .news-summary {
+    margin-bottom: 10px;
+  }
+  
+  .news-date {
+    font-size: 12px;
+    color: #888;
+  }

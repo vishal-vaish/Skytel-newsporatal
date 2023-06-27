@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    margin: 20px;
+}
+
+.header {
+    font-size: 44px;
+}
+
+.tabs {
+    display: flex;
+    margin-top: 20px;
+}
+
+.tabs a {
+    text-decoration: none;
+    color: #333;
+    margin-right: 20px;
+    font-weight: bold;
+    font-size: 20px;
+    padding-bottom: 5px;
+}
+
+
+
+
