@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import './news.css';
 
 const UPI = () => {
     const [upiNews, setUpiNews] = useState([]);
